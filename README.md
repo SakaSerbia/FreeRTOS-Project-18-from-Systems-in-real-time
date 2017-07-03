@@ -16,11 +16,11 @@ Task xTask2 counts the average of the last 32 received bounces and immediately i
 
 At the push of the button S1 and S2, the task xTask3 reads the corresponding mailbox and displays the measured mean value on the multiplexed LED display.
 
-#Block scheme of the system
-![slika1](https://user-images.githubusercontent.com/16638876/27803714-33906526-602b-11e7-9d4c-93b166e2d2ea.jpg)
-
 # Acknowledgment
 I dedicate this project to **Nikolina**, whose notebooks I copied during the entire study. My real friend thank you from the heart for all.
+
+# Block scheme of the system
+![slika1](https://user-images.githubusercontent.com/16638876/27803714-33906526-602b-11e7-9d4c-93b166e2d2ea.jpg)
 
 # Synchronization and communication mechanism
 ![slika2](https://user-images.githubusercontent.com/16638876/27803757-7253a278-602b-11e7-920e-aceb0fdb86c7.jpg)
