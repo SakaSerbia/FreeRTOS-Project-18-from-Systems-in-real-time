@@ -1,0 +1,12 @@
+/**
+ * @mainpage
+ *
+ * @section intro Introduction
+ * Example of generated Documentation
+ *
+ * @subsection sub_det Details
+ * For more details, look at <a href="http://www.doxygen.org">Doxygen webpage</a>.
+ *
+ * @section task Task description
+ * Template for testing SRV functionality
+ */
